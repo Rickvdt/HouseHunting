@@ -15,7 +15,7 @@ This one is quite simple. Make an account on https://walterliving.com/. When log
 **Get property pictures**
 This python notebook will allow you to find pictures of properties that have been listed before but are not listed on Funda anymore or just to scrape pictures of houses that are currently being offered. 
 
-**For old homes there are two options. **
+**For old homes there are two options**
 **Option 1:** try to find the address on https://www.miljoenhuizen.nl/ and open the thumbnail image in a new tab. This should provide you with a funda link to the picture. Paste this link in 'starting_url' to scrape the following pictures. Quite often multiple houses are uploaded at the same time making the pictures not increase sequential.
 **Option 2:** look if the house has a thumbnail on https://walterliving.com/. The thumbnail is available in multiple pages on some you might need to retrieve the url through 'inspect element' on some you can open the image on a new tab. Paste this link in 'starting_url' to scrape the pictures
 
