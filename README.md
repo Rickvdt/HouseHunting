@@ -19,8 +19,9 @@ This python notebook will allow you to find pictures of properties that have bee
 When a new house is offered make sure to try this the same day as both options will scrape the new pictures at night and refresh their site with the new pictures thus losing the link to the past in the process.
 
 **Some extra tips that came in to mind.**
-KadastraleKaart.com If you want to know if the house or the garden will be shaded then lookup the address on this site. Click 'Adres' and then scroll down to 'Zon en schaduw rondom adres'. It will give you an idea of the shade year round.
 
-bing.com/maps/ One cool thing that bing maps has to offer is birds eye view. Look up the address and right click. You should see the opion 'View in Birds eye' or 'bekijk in vogelvlucht'. Availability and date of the images varies but for quite a big portion of the Netherlands high-res aerial close up images from all angles are available.
+https://KadastraleKaart.com If you want to know if the house or the garden will be shaded then lookup the address on this site. Click 'Adres' and then scroll down to 'Zon en schaduw rondom adres'. It will give you an idea of the shade year round.
+
+https://bing.com/maps/ One cool thing that bing maps has to offer is birds eye view. Look up the address and right click. You should see the opion 'View in Birds eye' or 'bekijk in vogelvlucht'. Availability and date of the images varies but for quite a big portion of the Netherlands high-res aerial close up images from all angles are available.
 
 https://3dbag.nl/ Very cool site imo. For every building you can easily find the height of each part of the building and the slope of the roof(s). Also the estimated building and roof sizes are available. Accuracy depends on the straightforwardness of the building geometry.
